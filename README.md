@@ -25,7 +25,7 @@ pip install colorama
 
 git clone https://github.com/Redeye00007/smsbombing
 
-cd Sms_bombing
+cd smsbombing
 
 python t_bomb.py
 
