@@ -23,7 +23,7 @@ pip install requests
 
 pip install colorama
 
-git clone https://github.com/Redeye00007/Sms_bombing
+git clone https://github.com/Redeye00007/smsbombing
 
 cd Sms_bombing
 
