@@ -1,4 +1,4 @@
-#ENCODED By : R.K.M
+#ENCODED By : RedEyE| Himel
 #ENCRYPTION : PY3 MARSHAL
 
 import marshal
